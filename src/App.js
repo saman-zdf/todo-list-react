@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const App = () => {
-  return (
-    <div >
-          The basic empty template
-    </div>
-  )
-}
+  return <h1>Hello React</h1>;
+};
 
-export default App
+export default App;
